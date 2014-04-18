@@ -1,0 +1,17 @@
+//Prefix format is as follows:
+//"Name","Effect Text","null/stat:val
+Fiery,Your weapon deals 10% bonus fire damage,fire:10
+Frozen,Your weapon deals 10% bonus ice damage,ice:10
+Acidic,Your weapon deals 10% bonus Acid damage,acid:10
+Shocking,Your weapon deals 10% bonus Electricity damage,elec:10
+Thundering,Your weapon deals 10% bonus Sonic damage,sonic:10
+Molten,Your weapon deals 15% bonus Fire damage\nYour weapon gains +3 armor penetration,fire:15:apen:3
+Toxic,Your weapon deals 10% bonus Poison damage,poison:10
+Penetrating,Your weapon gains +2 armor penetration,apen:2
+Oversized,Your weapon is 1 size larger\nYour weapon gains 10% bonus damage,dmg:10:size:+1
+Light,Your weapon is easier to use,strreq:-1
+Quick,Your weapon can be quickdrawn without the quickdraw skill,null
+Dependable,Your weapon gets 10% increased accuracy,acc:10
+Binary,Your weapon shoots twice per shot,null
+Extended,Your weapon has a 20% larger clip,clip:20
+Potent,Your weapon gains 10% bonus damage,dmg:10

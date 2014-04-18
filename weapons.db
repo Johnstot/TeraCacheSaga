@@ -1,0 +1,4 @@
+//Weapons should follow this format:
+//"Weapon Name", "size", damage<int>, clip size<int>, accuracy<int>(-val/5 spaces), max modifiers<int>
+Pistol,Small,16,8,-2,4
+Shotgun,Medium,36,2,-8,4

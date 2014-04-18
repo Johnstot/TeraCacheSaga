@@ -1,0 +1,6 @@
+//Suffix format as follows:
+//"Name",null/stat:val
+of Slaying,dmg:10
+of Sniping,acc:10
+of Supression,clip:20
+of Thor,elec:15

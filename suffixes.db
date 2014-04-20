@@ -1,5 +1,6 @@
 //Suffix format as follows:
 //"Name",rarity,chance,null/syntax,null/stat:val
+of Training,1,100,null,acc:10
 of Slaying,1,50,null,dmg:10
 of Sniping,1,100,null,acc:10
 of Supression,1,100,null,clip:20

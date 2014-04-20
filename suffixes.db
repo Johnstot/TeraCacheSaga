@@ -4,4 +4,4 @@ of Slaying,1,50,null,dmg:10
 of Sniping,1,100,null,acc:10
 of Supression,1,100,null,clip:20
 Thor's,2,10,pre,elec:15
-of Trash,-1,100,dmg:-10
+of Trash,-1,100,null,dmg:-10

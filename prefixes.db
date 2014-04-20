@@ -16,3 +16,7 @@ Binary,3,Your weapon shoots twice per shot,null:0
 Extended,1,Your weapon has a 20% larger clip,clip:20
 Potent,1,Your weapon gains 10% bonus damage,dmg:10
 Rusted,-1,Your weapon deals 10% less damage,dmg:-10
+Overclocked,2,Your weapon fires 40% faster,rate:40
+Underclocked,-1,Your weapon fires 40% slower,rate:-40
+Speedy,1,Your weapon fires 20% faster,rate:20
+Slow,-1,Your weapon fires 20% slower,rate:-20

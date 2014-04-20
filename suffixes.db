@@ -1,6 +1,6 @@
 //Suffix format as follows:
-//"Name",rarity,null/syntax,null/stat:val
-of Slaying,50,null,dmg:10
-of Sniping,50,null,acc:10
-of Supression,50,null,clip:20
-Thor's,10,pre,elec:15
+//"Name",rarity,chance,null/syntax,null/stat:val
+of Slaying,1,50,null,dmg:10
+of Sniping,1,100,null,acc:10
+of Supression,1,100,null,clip:20
+Thor's,2,10,pre,elec:15
